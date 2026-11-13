@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/_global-error/page": "/_global-error",
+  "/page": "/",
+  "/departments/page": "/departments",
+  "/about/page": "/about",
+  "/doctors/page": "/doctors",
+  "/doctors/[slug]/page": "/doctors/[slug]",
+  "/gallery/page": "/gallery",
+  "/facilities/page": "/facilities",
+  "/contact/page": "/contact",
+  "/departments/[slug]/page": "/departments/[slug]"
+}
